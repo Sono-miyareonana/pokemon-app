@@ -1,0 +1,20 @@
+/* 11.boxshadowジェネレーター　https://hiroyuki-n.github.io/boxShadow_generator/ */
+/* カードの背景のカラー設定はindex.css　カードのカラーは.card内のbackground-color */
+
+.card{
+    width: 290px;
+    box-shadow: 17px 23px 46px 3px #777777;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.cardName{
+    padding: 0;
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.cardInfo{
+    text-align: center;
+}
